@@ -3,5 +3,5 @@ uiuc-beamer-theme
 
 Beamer theme for UIUC
 
-![ScreenShot](https://raw.github.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![ScreenShot](https://raw.github.com/mayhewsw/uiuc-beamer-theme/master/demo-beamer-uiuc.png)
 
